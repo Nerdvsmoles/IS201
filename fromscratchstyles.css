@@ -1,11 +1,22 @@
 @charset "UTF-8";
-a:link{color: blue;}
-a:visited{color: purple;}
-a:hover{font-style: bold pink;}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    font-weight: bold;
+    color: pink;
+}
 hr {
-    font-style: bold 24px black underline; 
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+    text-decoration: underline;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 li {
-
+    /* Add styles for <li> if needed */
 }
+
