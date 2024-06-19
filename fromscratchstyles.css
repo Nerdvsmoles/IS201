@@ -24,4 +24,17 @@ h4 {color: darkblue;}
 
 .div1{text-align: justify;}
 .div2{text-decoration: underline;}
-.div3{text-align: left;}
+.div3 {
+    font-weight: bold;
+    color: black;
+}
+
+.sports-list li {
+    color: darkblue; 
+    font-style: italic;
+}
+
+.gaming-list li {
+    color: darkmagenta;
+    font-style: italic;
+}
