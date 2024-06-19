@@ -16,5 +16,12 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 li {
-    /* Add styles for <li> if needed */
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h4 {color: darkblue;}
+
+.div1{text-align: justify;}
+.div2{text-decoration: underline;}
+.div3{text-align: left;}
