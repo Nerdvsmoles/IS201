@@ -23,7 +23,7 @@ li {
 h4 {color: darkblue;}
 
 .div1{text-align: center;}
-.div2{text-decoration: underline;}
+.div2{text-decoration: underline; text-size-adjust: 18px;}
 .div3 {
     font-weight: bold;
     color: black;
